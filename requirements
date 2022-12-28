@@ -1,0 +1,4 @@
+numpy==1.24.1
+pyfiglet==0.8.post1
+pygame==2.1.2
+rich==12.6.0
